@@ -1,12 +1,18 @@
-#  React-Native
+#  My Wallet
+
+
+Overview:
+
+* User Authentication System.
+* Multiple country code selection for phone number.
+* Balance Top Up features.
+* Balance transfer feature.
+* Bill paying system.
+* Special promotion offers.
+* Barcode scanner system.
 
 
 
-## Table of Contents
-
-| Code | Project | Preview | Inspiration | No. of Screens |
-| ------ | ------ | ------ | ------ | ------ |
-| [Digital Wallet App] | <img src="https://cdn.dribbble.com/users/4208985/screenshots/9730914/media/5eb70ec992c7d1e440e34c76266ea767.png?compress=1&resize=1200x900" width="120" /> | [View](https://) | 3 |
 
 ## Contributors
 
