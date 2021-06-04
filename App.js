@@ -4,6 +4,8 @@ import { useFonts } from 'expo-font';
 import React from 'react';
 import Tabs from "./navigation/tabs";
 import { SignUp } from "./screens";
+import { Scan } from "./screens";
+
 
 
 const theme = {

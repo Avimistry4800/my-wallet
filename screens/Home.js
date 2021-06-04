@@ -102,10 +102,10 @@ const Home = () => {
 
     function renderHeader() {
         return (
-            <View style={{ flexDirection: 'row', marginVertical: SIZES.padding * 2 }}>
-                <View style={{ flex: 1 }}>
-                    <Text style={{ ...FONTS.h1 }}>Hello!</Text>
-                    <Text style={{ ...FONTS.body2, color: COLORS.gray }}>ByProgrammers</Text>
+            <View style={{ flexDirection: 'row', marginVertical: SIZES.padding * 2 ,justifyContent: 'center'}}>
+                <View style={{ flex: 1 , }}>
+                    <Text style={{ ...FONTS.h1 }}>My Wallet</Text>
+                    <Text style={{ ...FONTS.body2, color: COLORS.gray }}>The Ultimate Wallet</Text>
                 </View>
 
                 <View style={{ alignItems: 'center', justifyContent: 'center' }}>

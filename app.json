@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LCRN09-digital-wallet-expo",
-    "slug": "LCRN09-digital-wallet-expo",
+    "name": "My-Wallet",
+    "slug": "My-Wallet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
