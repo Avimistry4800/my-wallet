@@ -1,9 +1,9 @@
-import React from 'react';
-import { SignUp } from "./screens";
+import { DefaultTheme, NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from "@react-navigation/stack";
-import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { useFonts } from 'expo-font';
+import React from 'react';
 import Tabs from "./navigation/tabs";
+import { SignUp } from "./screens";
 
 
 const theme = {
