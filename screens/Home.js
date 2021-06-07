@@ -74,25 +74,25 @@ const Home = () => {
         {
             id: 1,
             img: images.promoBanner,
-            title: "Bonus Cashback1",
+            title: "Bonus Cashback $9.33",
             description: "Don't miss it. Grab it now!"
         },
         {
             id: 2,
             img: images.promoBanner,
-            title: "Bonus Cashback2",
+            title: "Bonus Cashback $11.75",
             description: "Don't miss it. Grab it now!"
         },
         {
             id: 3,
             img: images.promoBanner,
-            title: "Bonus Cashback3",
+            title: "Bonus Cashback $2.39",
             description: "Don't miss it. Grab it now!"
         },
         {
             id: 4,
             img: images.promoBanner,
-            title: "Bonus Cashback4",
+            title: "Bonus Cashback $4.99",
             description: "Don't miss it. Grab it now!"
         },
     ]
@@ -102,7 +102,7 @@ const Home = () => {
 
     function renderHeader() {
         return (
-            <View style={{ flexDirection: 'row', marginVertical: SIZES.padding * 2 ,justifyContent: 'center'}}>
+            <View style={{ flexDirection: 'row', marginVertical: SIZES.padding * 2}}>
                 <View style={{ flex: 1 , }}>
                     <Text style={{ ...FONTS.h1 }}>My Wallet</Text>
                     <Text style={{ ...FONTS.body2, color: COLORS.gray }}>The Ultimate Wallet</Text>

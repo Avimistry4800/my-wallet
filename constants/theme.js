@@ -25,7 +25,7 @@ export const COLORS = {
     white: "#FFFFFF",
 
     lightGray: "#FCFBFC",
-    gray: "#C1C3C5",
+    gray: "#3D3D3D",
     darkgray: "#C3C6C7",
 
     transparent: "transparent",
